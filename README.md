@@ -1,3 +1,5 @@
+see it here--> https://codepen.io/Nnx0/pen/wvWEgGJ
+
 - create a variable for the products div called productsDOM
 - create an array, inside the array create an object that will hold our data, title, info, and price
 - then lets create a function called getPosts and lets set a timeout for 1 second which basically mimics pulling data from a server
