@@ -8,9 +8,7 @@
 - i am creating the div class called product which is a child of the products div so this will be placed inside that div
 - next we write a p tag and then use ${} to add the post
 - lastly we want to add the output to the products div which we assisgned to a variable called productsDOM
-- then call the function
--
-so in one section the data will be output to the page
+- then call the function so the data will be output to the page
 
 CALLBACKS
 - create a function called createPosts which will take in a new post
